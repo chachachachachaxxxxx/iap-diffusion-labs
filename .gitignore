@@ -1,2 +1,5 @@
 .ipynb_checkpoints/
 .DS_store
+/labs/data
+**/dynamics_animation.mp4
+**/temp
